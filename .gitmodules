@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ConvertPar"]
 	path = ConvertPar
 	url = https://github.com/eda-akdogdu/convertpar
-	shallow = true
-	registered = true
